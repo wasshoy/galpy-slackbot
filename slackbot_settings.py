@@ -1,5 +1,6 @@
 # slackbotのAPIトークン
-API_TOKEN = 'xoxb-58325319012-879168116147-zI2PUHxvc8CPOI10wk2qPndI'
+# Bot User OAuth Access Token
+API_TOKEN = 'XXX'
 
 # 対応メッセージがなかった場合の反応
 DEFAULT_REPLY = 'ごめんわからんｗ'
